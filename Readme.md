@@ -1,6 +1,6 @@
 # scu抢课脚本（js版）
 
-之前有过一个python版，但是教务处的接口变更较大，那个维护起来就有些负责了。
+之前有过一个python版[link](https://github.com/liujunqi-ssun/URPHelper.git)，但是教务处的接口变更较大，那个维护起来就有些复杂了。
 
 就对照接口更改了另一个版本的js脚本
 
